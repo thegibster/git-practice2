@@ -5,3 +5,4 @@ more hopefully working code added
 futher code added
 correct code added
 
+terse,efficient,tested,readable,maintainable code
